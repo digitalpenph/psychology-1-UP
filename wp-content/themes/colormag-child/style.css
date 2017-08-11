@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Psychology Theme
+ Theme URI:    
+ Description:  Digitalpen PH
+ Author:       Tristan Jake & John Mark
+ Author URI:    
+ Template:     colormag
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-3.0.txt
+ Tags:         
+ Text Domain:  colormag-child
+*/
+html, body, h1, h2, h3, h4, h5, h6, p, a, span {
+    font-family: arial !important;
+}
